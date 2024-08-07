@@ -4,3 +4,6 @@ def foo():
 
 def func():
     pass
+
+
+print("hf")
