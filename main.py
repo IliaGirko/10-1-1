@@ -4,3 +4,6 @@ def bar():
 
 def func():
     pass
+
+
+print("hf")
